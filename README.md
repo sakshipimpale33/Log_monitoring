@@ -113,7 +113,7 @@ Would you like to integrate OpenTelemetry, Jaeger, and Prometheus next? 🚀
 ```bash
 1️⃣ Clone the repository:
 git clone https://github.com/sakshipimpale33/Log_monitoring.git
-cd docker-loki-grafana
+cd Log_monitoring
 
 2️⃣ Start the multi-container setup:
  docker-compose up -d
