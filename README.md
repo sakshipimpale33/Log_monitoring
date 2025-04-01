@@ -1,4 +1,4 @@
-🚀 Docker Multi-Container Logging with Loki & Grafana
+#🚀 Docker Multi-Container Logging with Loki & Grafana
 
 ## 📌 Overview
 
@@ -69,6 +69,21 @@ To take observability to the next level, we can integrate **OpenTelemetry** to i
 - **Traces**: Monitor request flows across distributed services
 - **Metrics**: Track performance indicators like response times
 - **Logs**: Correlate logs with traces for deeper debugging
+
+## 📊 Output
+
+Here are sample outputs from our logging setup:
+
+
+<img src="images/grafana-dashboard.png" alt="Grafana Dashboard" width="600"/>
+
+
+<img src="images/grafana-query.png" alt="Filtered Logs in Grafana" width="600"/>
+
+
+<img src="images/loki-logs.png" alt="Loki Log Storage" width="600"/>
+
+
 
 ### How OpenTelemetry Adds Value
 
