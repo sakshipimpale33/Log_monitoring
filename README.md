@@ -82,25 +82,24 @@ Would you like to integrate OpenTelemetry, Jaeger, and Prometheus next? 🚀
 
 ---
 
-## 📦 Deployment
+
 
 ### Prerequisites
-
-Ensure you have the following installed:
 
 - **Docker**
 - **Docker Compose**
 
 ### Steps
 
-1️⃣ Clone the repository:
 
 ```bash
+1️⃣ Clone the repository:
 git clone https://github.com/your-repo/docker-loki-grafana
 cd docker-loki-grafana
-2️⃣ Start the multi-container setup:
 
+2️⃣ Start the multi-container setup:
  docker-compose up -d
+
 3️⃣ Access Grafana at: http://localhost:3000
 
 Default credentials: admin / admin
