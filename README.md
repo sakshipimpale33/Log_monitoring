@@ -1,9 +1,10 @@
-![image](https://github.com/user-attachments/assets/e02b1dd3-2f1f-4790-abfe-5a41c4301b94)# 🚀 Docker Multi-Container Logging with Loki & Grafana
+🚀 Docker Multi-Container Logging with Loki & Grafana
 
 ## 📌 Overview
 
 We've built a powerful multi-container logging system using **Docker**, **Loki**, and **Grafana** to collect, store, and visualize logs from multiple running applications. This setup enables real-time monitoring and efficient log management in containerized environments.
-![Grafana Logo](https://blog.cavelab.dev/2022/08/collecting-logs-with-loki-and-promtail/cover.png)
+
+<img src="https://blog.cavelab.dev/2022/08/collecting-logs-with-loki-and-promtail/cover.png" alt="Grafana Logo" width="150"/>
 
 
 ## 🔧 Components
