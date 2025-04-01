@@ -3,7 +3,7 @@
 ## 📌 Overview
 
 We've built a powerful multi-container logging system using **Docker**, **Loki**, and **Grafana** to collect, store, and visualize logs from multiple running applications. This setup enables real-time monitoring and efficient log management in containerized environments.
-![Grafana Logo](https://upload.wikimedia.org/wikipedia/commons/3/3b/Grafana_logo.svg)
+![Grafana Logo]([https://upload.wikimedia.org/wikipedia/commons/3/3b/Grafana_logo.sv](https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.cavelab.dev%2F2022%2F08%2Fcollecting-logs-with-loki-and-promtail%2F&psig=AOvVaw1lEtbtUFW_GjNT3IrQJWAy&ust=1743617834204000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDm8eC4t4wDFQAAAAAdAAAAABAE)
 
 
 ## 🔧 Components
