@@ -1,4 +1,4 @@
-#🚀 Docker Multi-Container Logging with Loki & Grafana
+# 🚀 Docker Multi-Container Logging with Loki & Grafana
 
 ## 📌 Overview
 
