@@ -122,12 +122,6 @@ cd Log_monitoring
 
 Default credentials: admin / admin
 
-Add Loki as a data source in Grafana
-
-Start exploring your logs!
-
-Stopping Containers
-
  docker-compose down
 📂 Folder Structure
 📁 docker-loki-grafana
