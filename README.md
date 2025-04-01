@@ -1,13 +1,13 @@
-# 🚀 Docker Multi-Container Logging with Loki & Grafana
+#  Docker Multi-Container Logging with Loki & Grafana
 
-## 📌 Overview
+##  Overview
 
 We've built a powerful multi-container logging system using **Docker**, **Loki**, and **Grafana** to collect, store, and visualize logs from multiple running applications. This setup enables real-time monitoring and efficient log management in containerized environments.
 
 <img src="https://blog.cavelab.dev/2022/08/collecting-logs-with-loki-and-promtail/cover.png" alt="Grafana Logo" width="200" align="center"/>
 
 
-## 🔧 Components
+##  Components
 
 ### Application Containers
 
@@ -22,7 +22,7 @@ We've built a powerful multi-container logging system using **Docker**, **Loki**
 
 ---
 
-## 🛠 How It Works
+##  How It Works
 
 ### 1️⃣ Container Logging
 
@@ -52,7 +52,7 @@ We've built a powerful multi-container logging system using **Docker**, **Loki**
 
 ---
 
-## 🎯 Benefits
+##  Benefits
 
 ✅ **Centralized Logging**: No more scattered logs across containers—everything is in one place.\
 ✅ **Easy Troubleshooting**: Search logs across multiple services for quick issue resolution.\
@@ -62,7 +62,7 @@ We've built a powerful multi-container logging system using **Docker**, **Loki**
 
 ---
 
-## 📖 Enhancing with OpenTelemetry (Future Scope)
+##  Enhancing with OpenTelemetry (Future Scope)
 
 To take observability to the next level, we can integrate **OpenTelemetry** to include:
 
