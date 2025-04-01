@@ -3,7 +3,7 @@
 ## 📌 Overview
 
 We've built a powerful multi-container logging system using **Docker**, **Loki**, and **Grafana** to collect, store, and visualize logs from multiple running applications. This setup enables real-time monitoring and efficient log management in containerized environments.
-
+[Logging Flow](https://your-gif-url.com/logging-flow.gif)
 ## 🔧 Components
 
 ### Application Containers
